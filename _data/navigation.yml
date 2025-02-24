@@ -5,7 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-
+  - title: "HomePage"
+    url: /about.md
   - title: "CV"
     url: /file/CV.pdf
     
