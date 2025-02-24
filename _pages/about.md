@@ -11,4 +11,4 @@ I’m currently a third-year undergraduate student at the School of Cyber Scienc
 
 My research interest includes Deep Learning, Speech Processing. I am actively seeking collaborations and opportunities as a research intern.
 
-You can find my CV here: [Yu Zhang's Curriculum Vitae](../file/CV.pdf)
+You can find my CV here: [Yu Zhang's Curriculum Vitae](../files/CV.pdf)
